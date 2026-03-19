@@ -5,3 +5,5 @@
 [TP 01: Productos Reales con Machine Learning](TP01.md)
 
 [TP 02: Analisis de Set de Datos](TP02.md)
+
+[TP 03: Regresion Lineal](TP03.md)
